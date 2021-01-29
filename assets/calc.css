@@ -1,0 +1,14 @@
+#calc td {
+  width: 64px;
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+#calc button {
+  width: 100%;
+}
+#calc-panel {
+  padding-right: 4px;
+  text-align: right;
+  border: 1px solid black;
+}
